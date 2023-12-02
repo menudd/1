@@ -6,6 +6,7 @@
     width: 100%;
     background-color: #011627;
     padding-top: 20px;
+
     padding-bottom: 20px;
     margin-top: 0;
     margin-left: 0;
@@ -17,7 +18,7 @@
      justify-content: space-evenly;
      text-decoration: none;
     font-size: 18px;
-    margin: 0px 1px;  
+    margin: 0px 20%;  
 }
 .nav-link :visited {
 color: #FDFFFC;
@@ -31,17 +32,17 @@ a:active {
 
 #home {
     font-size: 19px;
-    margin: 0px 20%;
+    margin: 0px ;
 }
 
 #biblioteca {
     font-size: 19px;
-    margin: 0px 20%;
+    margin: 0px ;
 }
 
 #chi-siamo {
     font-size: 19px;
- margin: 0px 20%;
+ margin: 0px ;
 }
 
 
