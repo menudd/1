@@ -1,0 +1,43 @@
+.nav {
+    display: flex;
+    z-index: 10000;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: #011627;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    justify-content: center;
+}
+ 
+.nav-link {
+    color: #FDFFFC;
+     justify-content: space-evenly;
+    font-size: 18px;
+    margin: 0px 1px;  
+}
+.nav-link :visited {
+color: #FDFFFC;
+text-decoration: none;
+}
+a:hover {
+color: #48acff; 
+}
+.nav-link :active {
+    color: antiquewhite; }
+
+#home {
+    font-size: 19px;
+    margin: 0px 145px;
+}
+
+#biblioteca {
+    font-size: 19px;
+    margin: 0px 145px;
+}
+
+#chi-siamo {
+    font-size: 19px;
+ margin: 0px 145px;
+}
